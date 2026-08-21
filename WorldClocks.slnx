@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WorldClocks.Tests/WorldClocks.Tests.csproj" />
+    <Project Path="src/WorldClocks/WorldClocks.csproj" />
+  </Folder>
+</Solution>
